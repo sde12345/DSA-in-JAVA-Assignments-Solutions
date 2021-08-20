@@ -13,7 +13,7 @@ class Codechef
 	{
 	
 	Scanner scn = new Scanner(System.in);
-    float p = scn.nextFloat();
+        float p = scn.nextFloat();
 	float r = scn.nextFloat();
 	int t = scn.nextInt();
 	float interest = (p * r * t)/100;
