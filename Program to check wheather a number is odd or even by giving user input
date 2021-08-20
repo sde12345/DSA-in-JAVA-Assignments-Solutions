@@ -6,7 +6,7 @@ import java.io.*;
 
 /* Name of the class has to be "Main" only if the class is public. */
 
-// Code to chck wheather a number is odd or even
+// Code to check wheather a number is odd or even
 class Codechef
 {
 	public static void main (String[] args) throws java.lang.Exception
